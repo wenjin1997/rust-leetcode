@@ -10,3 +10,8 @@
 ## 部分数组有序搜索
 
 * [33. Search in Rotated Sorted Array](/leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+
+## 二分搜索
+
+* [74. Search a 2D Matrix](/leetcode/74.%20Search%20a%202D%20Matrix.md)
+
