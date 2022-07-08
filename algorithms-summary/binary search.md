@@ -10,6 +10,7 @@
 ## 部分数组有序搜索
 
 * [33. Search in Rotated Sorted Array](/leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+* [153. Find Minimum in Rotated Sorted Array](/leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 
 ## 矩阵搜索
 
