@@ -4,6 +4,12 @@
 * 排序算法
 * 动态规划
 * 图
+  * 环检测算法
+    * [287. Find the Duplicate Number](/leetcode/287.%20Find%20the%20Duplicate%20Number.md)
+
+* Negative marking
+  * [287. Find the Duplicate Number](/leetcode/287.%20Find%20the%20Duplicate%20Number.md)
+
 
 ## LeetCode
 
@@ -17,4 +23,5 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/240.%20Search%20a%202D%20Matrix%20II.md) |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/287.%20Find%20the%20Duplicate%20Number.md) |
 
