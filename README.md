@@ -12,7 +12,7 @@
   * [287. Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md)
 * 动态规划
   - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-  - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+  - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
   - [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
   - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
   - [ ] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)
@@ -51,7 +51,7 @@
 | [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [70](/leetcode/src/rust/70.climbing-stairs.rs) | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |  |  |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [121](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [239]() |  | [239](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/240.%20Search%20a%202D%20Matrix%20II.md) |  |  |
