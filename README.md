@@ -70,7 +70,7 @@
   - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
   - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
-  - [ ] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
+  - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   - [ ] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
   - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
@@ -106,6 +106,7 @@
 | [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) | |
 | [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) | |
 | [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) | |
+| [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) | |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |
