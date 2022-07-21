@@ -65,11 +65,11 @@
 - [ ] 贪心
   - [x] [55. Jump Game](https://leetcode.com/problems/jump-game)
   - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)
-- [ ] 动态规划 3/24
+- [ ] 动态规划 4/23
   - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
   - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
   - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-  - [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+  - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [ ] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   - [ ] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
   - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
@@ -104,6 +104,7 @@
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |
 | [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |
 | [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) | |
+| [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) | |
 | [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) | |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
