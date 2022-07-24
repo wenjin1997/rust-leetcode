@@ -17,11 +17,11 @@ impl Solution {
     // 结果为 DP[0, 0]
     // 这道题由于每次都是一层一层遍历，因此可以进行状态压缩，
     // 空间上用一个一维数组。
-    // 时间复杂度：O(m x n) 空间复杂度：O(1)
+    // 时间复杂度：O(m x n) 空间复杂度：O(n)
     pub fn minimum_total(triangle: Vec<Vec<i32>>) -> i32 {
         let m = triangle.len();     // 行数
         if m == 1 { return triangle[0][0]; }
-        
+
         let mut minimum = triangle[m - 1].clone();
 
         for i in (0..=(m - 2)).rev() {
