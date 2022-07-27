@@ -10,7 +10,7 @@
 // @lc code=start
 use std::cmp::max;
 impl Solution {
-    pub fn max_profit(prices: Vec<i32>) -> i32 {
+    pub fn max_profit1(prices: Vec<i32>) -> i32 {
         let n = prices.len();
         // base case
         if n == 1 { return 0; }
@@ -28,6 +28,25 @@ impl Solution {
                         dp[i-1][1] + prices[i]); // 前一天持有股票，今日卖出
         }
         dp[n - 1][0]
+    }
+
+    /// 空间优化版本
+    pub fn max_profit(prices: Vec<i32>) -> i32 {
+        let n = prices.len();
+        // base case
+        if n == 1 { return 0; }
+
+        let mut buy = -prices[0]; // 买入了股票，持有股票
+        let mut sell = 0;         // 卖出了股票，未持有股票
+
+        for i in 1..n {
+            let old_buy = buy;
+            let old_sell = sell;
+            // 动态转移方程
+            buy = max(old_buy, old_sell - prices[i]);
+            sell = max(old_sell, old_buy + prices[i]);
+        }
+        sell
     }
 }
 // @lc code=end
