@@ -65,9 +65,8 @@
 - [ ] 贪心
   - [x] [55. Jump Game](https://leetcode.com/problems/jump-game)
   - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)
-- [ ] 动态规划 5/23
+- [ ] 动态规划 5/22
   - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-  - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
   - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
@@ -90,9 +89,13 @@
   - [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
   - [ ] [72. Edit Distance](https://leetcode.com/problems/edit-distance)
   - [ ] [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
-- [ ] 股票买卖问题
+- [ ] 股票买卖问题 
+  - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+  - [x] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+  - [ ] [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
   - [x] [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
-  
+  - [ ] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+  - [ ] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
 
 
 ## LeetCode
@@ -115,6 +118,7 @@
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
 | [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) | |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |
+| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) | |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |
