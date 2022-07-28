@@ -65,7 +65,7 @@
 - [ ] 贪心
   - [x] [55. Jump Game](https://leetcode.com/problems/jump-game)
   - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)
-- [ ] 动态规划 7/23
+- [ ] 动态规划 8/23
   - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
   - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
@@ -79,7 +79,7 @@
   - [ ] [198. House Robber](https://leetcode.com/problems/house-robber)
   - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square)
   - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
-  - [ ] [322. Coin Change](https://leetcode.com/problems/coin-change)
+  - [x] [322. Coin Change](https://leetcode.com/problems/coin-change)
   - [ ] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
   - [ ] [494. Target Sum](https://leetcode.com/problems/target-sum)
   - [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
@@ -128,6 +128,7 @@
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md) |  |  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs) | |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) | |
+| [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) | |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) | |
 
