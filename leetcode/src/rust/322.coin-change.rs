@@ -29,7 +29,7 @@ impl Solution {
             }
         }
 
-        // 表示没有满足的银币组合
+        // 表示没有满足的硬币组合
         if dp[amount as usize] > amount {
             return -1;
         }
