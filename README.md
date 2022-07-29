@@ -1,9 +1,9 @@
 # Rust算法
-- [ ] 链表 0/15
+- [ ] 链表 1/15
   - [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
   - [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
   - [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
-  - [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+  - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️⭐️⭐️
   - [ ] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
   - [ ] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
   - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -76,7 +76,7 @@
   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [ ] [139. Word Break](https://leetcode.com/problems/word-break)
   - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
-  - [x] [198. House Robber](https://leetcode.com/problems/house-robber)
+  - [x] [198. House Robber](https://leetcode.com/problems/house-robber)  🌸
   - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square)
   - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
   - [x] [322. Coin Change](https://leetcode.com/problems/coin-change)
@@ -87,7 +87,7 @@
   - [ ] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
   - [ ] [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
   - [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
-  - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance)
+  - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance)  ⭐️⭐️⭐️
   - [ ] [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - [x] 股票买卖问题 6/6
   - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
@@ -126,6 +126,7 @@
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() | |
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) | |
+| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/240.%20Search%20a%202D%20Matrix%20II.md) |  |  |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md) |  |  |
