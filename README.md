@@ -71,7 +71,7 @@
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   - [x] [120. Triangle](https://leetcode.com/problems/triangle/description/)
-  - [ ] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
+  - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
   - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [ ] [139. Word Break](https://leetcode.com/problems/word-break)
@@ -114,6 +114,7 @@
 | [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) | |
 | [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) | |
 | [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) | |
+| [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs) | |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
 | [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) | |
