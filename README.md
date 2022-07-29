@@ -24,7 +24,7 @@
   - [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [x] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
   - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
-- [ ] 滑动窗口 0/3
+- [ ] 滑动窗口 3/3
   - [x] [3. Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
   - [x] [438. Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -60,12 +60,12 @@
   - [ ] [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
   - [ ] [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)
   - [ ] [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
-- [ ] 回溯
+- [ ] 回溯 1/1
   - [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
-- [ ] 贪心
+- [ ] 贪心 2/2
   - [x] [55. Jump Game](https://leetcode.com/problems/jump-game)
   - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)
-- [ ] 动态规划 8/23
+- [ ] 动态规划 11/23
   - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
   - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
@@ -76,7 +76,7 @@
   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [ ] [139. Word Break](https://leetcode.com/problems/word-break)
   - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
-  - [ ] [198. House Robber](https://leetcode.com/problems/house-robber)
+  - [x] [198. House Robber](https://leetcode.com/problems/house-robber)
   - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square)
   - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
   - [x] [322. Coin Change](https://leetcode.com/problems/coin-change)
@@ -87,7 +87,7 @@
   - [ ] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
   - [ ] [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
   - [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
-  - [ ] [72. Edit Distance](https://leetcode.com/problems/edit-distance)
+  - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance)
   - [ ] [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - [x] 股票买卖问题 6/6
   - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
@@ -116,6 +116,7 @@
 | [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) | |
 | [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs) | |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) | |
+| [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs) | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
 | [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) | |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |
@@ -124,6 +125,7 @@
 | [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) | |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() | |
+| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/240.%20Search%20a%202D%20Matrix%20II.md) |  |  |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md) |  |  |
