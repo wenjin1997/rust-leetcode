@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 链表 1/15
+- [ ] 链表 2/15
   - [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
   - [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
   - [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
@@ -107,7 +107,7 @@
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() | |
-| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | |
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |
 | [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |
