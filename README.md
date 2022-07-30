@@ -100,41 +100,41 @@
 
 ## LeetCode
 
-| 🔗                                           | 📒           | Rust   | Java |
-| ----------- | ----------- | ----------- | ----------- |
-| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/1.%20Two%20Sum.md) |  |  |
-| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |
-| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |
-| [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) | |
-| [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() | |
-| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
-| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |
-| [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |
-| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |
-| [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) | |
-| [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) | |
-| [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) | |
-| [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) | |
-| [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs) | |
-| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) | |
-| [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs) | |
-| [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |
-| [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) | |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |
-| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) | |
-| [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs) | |
-| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
-| [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) | |
-| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |
-| [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() | |
-| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) | |
-| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) | |
-| [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |
-| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/240.%20Search%20a%202D%20Matrix%20II.md) |  |  |
-| [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md) |  |  |
-| [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs) | |
-| [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) | |
-| [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) | |
-| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |
-| [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) | |
+| 🔗                                           | 📒           | Rust   | Python3 | Java |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/1.%20Two%20Sum.md) |  |  |  |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
+| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
+| [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
+| [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) |  | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
+| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
+| [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |  |
+| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |  |
+| [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) |  | |
+| [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) |  | |
+| [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) |  | |
+| [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) |  | |
+| [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs) |  | |
+| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) |  | |
+| [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs) |  | |
+| [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/74.%20Search%20a%202D%20Matrix.md) |  |  |  |
+| [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) |  | |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |  |
+| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
+| [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs) |  | |
+| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3]() | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
+| [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) |  | |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
+| [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
+| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) |  | |
+| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) |  | |
+| [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |  |
+| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/240.%20Search%20a%202D%20Matrix%20II.md) |  |  |  |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md) |  |  |  |
+| [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs) |  | |
+| [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) |  | |
+| [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) |  | |
+| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |  |
+| [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) |  | |
 
