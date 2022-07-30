@@ -1,12 +1,12 @@
 # Rust算法
-- [ ] 总进度条 44/171
+- [ ] 总进度条 47/172
 
-  ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-- [ ] 数组 0/5
+- [ ] 数组 2/5
 
-  - [ ] [704. Binary Search](https://leetcode.com/problems/binary-search)
-  - [ ] [27. Remove Element](https://leetcode.com/problems/remove-element)
+  - [x] [704. Binary Search](https://leetcode.com/problems/binary-search)
+  - [x] [27. Remove Element](https://leetcode.com/problems/remove-element)
   - [ ] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
   - [ ] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
   - [ ] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)
@@ -198,7 +198,8 @@
   - [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
   - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 
-- [x] [二分搜索](/algorithms-summary/binary%20search.md) 8/8
+- [x] [二分搜索](/algorithms-summary/binary%20search.md) 9/9
+  
   - [x] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   - [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
   - [x] [34. Find First and Last Position of Element in So](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
@@ -207,7 +208,8 @@
   - [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [x] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
   - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
-
+  - [x] [704. Binary Search](https://leetcode.com/problems/binary-search)
+  
 - [x] 滑动窗口 3/3
   - [x] [3. Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
   - [x] [438. Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
@@ -231,6 +233,7 @@
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) | | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() | | |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) | [Python3](/leetcode/src/python/24.swap-nodes-in-pairs.pys) |
+| [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |  |
 | [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |  |
@@ -259,5 +262,6 @@
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) | | |
 | [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) | | |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |  |
+| [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs) | | |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) | | |
 
