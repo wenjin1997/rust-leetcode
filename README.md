@@ -123,7 +123,7 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |  |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
 | [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs) |  | |
-| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3]() | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
+| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3](/leetcode/src/python/141.linked-list-cycle.py) | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
 | [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) |  | |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
