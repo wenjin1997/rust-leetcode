@@ -7,7 +7,7 @@
   - [ ] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
   - [ ] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
   - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
-  - [ ] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+  - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️⭐️⭐️
   - [ ] [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)
   - [ ] [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
   - [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
@@ -16,7 +16,7 @@
   - [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
   - [ ] [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 - [x] [二分搜索](/algorithms-summary/binary%20search.md) 8/8
-  - [ ] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+  - [x] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   - [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
   - [x] [34. Find First and Last Position of Element in So](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
   - [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
@@ -71,15 +71,15 @@
   - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
   - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   - [x] [120. Triangle](https://leetcode.com/problems/triangle/description/)
-  - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
+  - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) 🌸
   - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [ ] [139. Word Break](https://leetcode.com/problems/word-break)
   - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
   - [x] [198. House Robber](https://leetcode.com/problems/house-robber)  🌸
   - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square)
-  - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
-  - [x] [322. Coin Change](https://leetcode.com/problems/coin-change)
+  - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) 🌟🌟🌟
+  - [x] [322. Coin Change](https://leetcode.com/problems/coin-change)  🌸
   - [ ] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
   - [ ] [494. Target Sum](https://leetcode.com/problems/target-sum)
   - [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
@@ -107,6 +107,7 @@
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() | |
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |
 | [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/35.%20Search%20Insert%20Position.md) |  |  |
