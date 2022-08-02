@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 50/172 剩余 122
+- [ ] 总进度条 52/172 剩余 120
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -45,13 +45,13 @@
   - [x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) 🌟
   - [x] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  🌟🌟🌟
 
-- [ ] 链表 2/7
+- [ ] 链表 4/7
 
   - [ ] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
   - [ ] [707. Design Linked List](https://leetcode.com/problems/design-linked-list)
   - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️⭐️⭐️
   - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️⭐️⭐️
-  - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+  - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
   - [ ] [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
   - [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  ✅
@@ -265,6 +265,7 @@
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List |  | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
 | [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
