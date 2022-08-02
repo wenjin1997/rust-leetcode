@@ -61,7 +61,7 @@
   - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
   - [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
   - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number)
-  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)
+  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)  🌟🌟
   - [ ] [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
   - [ ] [383. Ransom Note](https://leetcode.com/problems/ransom-note)
   - [ ] [15. 3Sum](https://leetcode.com/problems/3sum)
@@ -261,7 +261,7 @@
 
 | 🔗                                           | 📒           | Rust   | Java | Python3 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/1.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs) |  |  |
+| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/1.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs) | [Java](/leetcode/src/java/1.two-sum.java) |  |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) | | |
