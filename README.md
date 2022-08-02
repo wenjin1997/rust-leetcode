@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 52/172 剩余 120
+- [ ] 总进度条 53/173 剩余 120
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -35,7 +35,7 @@
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-  ⬜️⬜️
+  ⬜️⬜️⬜️
 
 - [x] 数组 5/5
 
@@ -45,15 +45,15 @@
   - [x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) 🌟
   - [x] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  🌟🌟🌟
 
-- [ ] 链表 4/7
+- [ ] 链表 5/8
 
   - [ ] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
   - [ ] [707. Design Linked List](https://leetcode.com/problems/design-linked-list)
   - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️⭐️⭐️
   - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️⭐️⭐️
-  - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+  - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) 🌟🌟
   - [ ] [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
-  - [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
+  - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  ✅
 
 - [ ] 哈希表 1/8
@@ -286,6 +286,7 @@
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
 | [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs) |  | |
 | [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3](/leetcode/src/python3/141.linked-list-cycle.py) | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
+| [142](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List Cycle II | | [Python3](/leetcode/src/python3/142.linked-list-cycle-ii.py) |  |
 | [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) |  | |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
