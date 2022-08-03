@@ -265,7 +265,7 @@
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
-| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List |  | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List | [Rust](/leetcode/src/rust/19.remove-nth-node-from-end-of-list.rs) | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
 | [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
