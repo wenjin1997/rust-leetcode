@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 53/173 剩余 120
+- [ ] 总进度条 54/173 剩余 119
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -56,7 +56,7 @@
   - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  ✅
 
-- [ ] 哈希表 1/8
+- [ ] 哈希表 2/8
 
   - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
   - [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
@@ -64,7 +64,7 @@
   - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)  🌟🌟
   - [ ] [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
   - [ ] [383. Ransom Note](https://leetcode.com/problems/ransom-note)
-  - [ ] [15. 3Sum](https://leetcode.com/problems/3sum)
+  - [x] [15. 3Sum](https://leetcode.com/problems/3sum)🌟🌟
   - [ ] [18. 4Sum](https://leetcode.com/problems/4sum)
 
 - [ ] 字符串 0/7
@@ -265,6 +265,7 @@
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/0001~0099/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/0001~0099/0004.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
+| [15](https://leetcode.com/problems/3sum) | [3Sum](/leetcode/notes/0001~0099/0015.%203Sum.md) | [Rust](/leetcode/src/rust/15.3-sum.rs) | | |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List | [Rust](/leetcode/src/rust/19.remove-nth-node-from-end-of-list.rs) | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
