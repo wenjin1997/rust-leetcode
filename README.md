@@ -273,7 +273,7 @@
 | [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/0001~0099/0033.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/0001~0099/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |  |
-| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/0001~0099/0035.%20Search%20Insert%20Position.md) |  |  |  |
+| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/0001~0099/0035.%20Search%20Insert%20Position.md) | [Rust](/leetcode/src/rust/35.search-insert-position.rs) |  |  |
 | [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) |  | |
 | [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) |  | |
 | [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) |  | |
