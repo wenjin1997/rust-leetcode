@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 54/173 剩余 119
+- [ ] 总进度条 55/173 剩余 118
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -90,11 +90,11 @@
   - [ ] [15. 3Sum](https://leetcode.com/problems/3sum)
   - [ ] [18. 4Sum](https://leetcode.com/problems/4sum)
 
-- [ ] 栈与队列 1/7
+- [ ] 栈与队列 2/7
 
   - [ ] [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
   - [ ] [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
-  - [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+  - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 🌟🌟
   - [ ] [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
   - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
@@ -267,6 +267,7 @@
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
 | [15](https://leetcode.com/problems/3sum) | [3Sum](/leetcode/notes/0001~0099/0015.%203Sum.md) | [Rust](/leetcode/src/rust/15.3-sum.rs) | | |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List | [Rust](/leetcode/src/rust/19.remove-nth-node-from-end-of-list.rs) | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
+| [20](https://leetcode.com/problems/valid-parentheses/description/) | [Valid Parentheses](/leetcode/notes/0001~0099/0020.%20Valid%20Parentheses.md) | [Rust](/leetcode/src/rust/20.valid-parentheses.rs) |  | |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
 | [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
