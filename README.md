@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 57/173 剩余 116
+- [ ] 总进度条 58/173 剩余 115
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅✅✅⬜️⬜️⬜️
+  ✅✅✅✅✅✅✅✅⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -45,10 +45,10 @@
   - [x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) 🌟
   - [x] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  🌟
 
-- [ ] 链表 6/8
+- [ ] 链表 7/8
 
   - [x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 🌟
-  - [ ] [707. Design Linked List](https://leetcode.com/problems/design-linked-list)
+  - [x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list) 🌟
   - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️
   - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️
   - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) 🌟
@@ -293,7 +293,7 @@
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) |  | |
-| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust]() | | |
+| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs) | | |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) |  | |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs) |  | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |  |
@@ -305,6 +305,7 @@
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs) | | |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |  |
 | [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs) |  | |
+| [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs) | | |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) |  | |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | [Rust](/leetcode/src/rust/977.squares-of-a-sorted-array.rs) |  | |
 
