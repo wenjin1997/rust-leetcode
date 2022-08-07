@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 60/173 剩余 113
+- [ ] 总进度条 61/173 剩余 112
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -56,11 +56,11 @@
   - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  🌸
 
-- [ ] 哈希表 4/8
+- [ ] 哈希表 5/8
 
   - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) ✨
   - [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) 🌥
-  - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number)
+  - [x] [202. Happy Number](https://leetcode.com/problems/happy-number) 🌸
   - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)  🌟
   - [ ] [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
   - [ ] [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -293,6 +293,7 @@
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) |  | |
+| [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs) | | |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs) | | |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) |  | |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs) |  | |
