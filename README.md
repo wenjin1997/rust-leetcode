@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 59/173 剩余 114
+- [ ] 总进度条 60/173 剩余 113
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅✅✅✅✅⬜️
+  ✅✅✅✅✅✅✅✅✅✅
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -56,10 +56,10 @@
   - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  🌸
 
-- [ ] 哈希表 3/8
+- [ ] 哈希表 4/8
 
   - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) ✨
-  - [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
+  - [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) 🌥
   - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number)
   - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)  🌟
   - [ ] [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
@@ -304,6 +304,7 @@
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) |  | |
 | [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) |  | |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs) | | |
+| [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs) | | |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |  |
 | [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs) |  | |
 | [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs) | | |
