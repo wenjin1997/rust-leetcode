@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 58/173 剩余 115
+- [ ] 总进度条 59/173 剩余 114
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -11,7 +11,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅✅✅✅⬜️⬜️
+  ✅✅✅✅✅✅✅✅✅⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -56,9 +56,9 @@
   - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  🌸
 
-- [ ] 哈希表 2/8
+- [ ] 哈希表 3/8
 
-  - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
+  - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) ✨
   - [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
   - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number)
   - [x] [1. Two Sum](https://leetcode.com/problems/two-sum)  🌟
@@ -298,6 +298,7 @@
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs) |  | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/0200~0299/0240.%20Search%20a%202D%20Matrix%20II.md) |  |  |  |
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Rust](/leetcode/src/rust/242.valid-anagram.rs) | | |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/0200~0299/0287.%20Find%20the%20Duplicate%20Number.md) |  |  |  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs) |  | |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) |  | |
