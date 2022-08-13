@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 63/173 剩余 110
+- [ ] 总进度条 64/173 剩余 109
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -100,11 +100,11 @@
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
 
-- [ ] [二叉树](/algorithms-summary/binary_tree.md) 2/35
+- [ ] [二叉树](/algorithms-summary/binary_tree.md) 3/35
 
   - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟
   - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🌟
-  - [ ] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+  - [x] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) 🌟
   - [ ] 102
   - [ ] 107
   - [ ] 199
@@ -291,6 +291,7 @@
 | [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3](/leetcode/src/python3/141.linked-list-cycle.py) | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List Cycle II | | [Python3](/leetcode/src/python3/142.linked-list-cycle-ii.py) |  |
 | [144](https://leetcode.com/problems/binary-tree-preorder-traversal) | Binary Tree Preorder Traversal | [Rust](/leetcode/src/rust/144.binary-tree-preorder-traversal.rs) |  | |
+| [145](https://leetcode.com/problems/binary-tree-postorder-traversal) | Binary Tree Postorder Traversal | [Rust](/leetcode/src/rust/145.binary-tree-postorder-traversal.rs) | | |
 | [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) |  | |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
