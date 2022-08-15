@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 64/173 剩余 109
+- [ ] 总进度条 65/173 剩余 108
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -100,12 +100,12 @@
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
 
-- [ ] [二叉树](/algorithms-summary/binary_tree.md) 3/35
+- [ ] [二叉树](/algorithms-summary/binary_tree.md) 4/35
 
   - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟
   - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🌟
   - [x] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) 🌟
-  - [ ] 102
+  - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) 🌟
   - [ ] 107
   - [ ] 199
   - [ ] 637
@@ -284,6 +284,7 @@
 | [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs) |  | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/0001~0099/0074.%20Search%20a%202D%20Matrix.md) |  |  |  |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal | [Rust](/leetcode/src/rust/94.binary-tree-inorder-traversal.rs) | | |
+| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Binary Tree Level Order Traversal | [Rust](/leetcode/src/rust/102.binary-tree-level-order-traversal.rs) | | |
 | [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) |  | |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/0100~0199/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |  |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
