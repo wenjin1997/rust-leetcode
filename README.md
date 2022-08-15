@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 65/173 剩余 108
+- [ ] 总进度条 66/173 剩余 107
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️
+  ✅✅✅✅✅✅⬜️⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -100,23 +100,23 @@
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
 
-- [ ] [二叉树](/algorithms-summary/binary_tree.md) 4/35
+- [ ] [二叉树](/algorithms-summary/binary_tree.md) 5/35
 
   - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟
-  - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🌟
+  - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🔥🌟
   - [x] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) 🌟
-  - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) 🌟
+  - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) 🔥🌟
   - [ ] 107
-  - [ ] 199
+  - [x] [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) 🔥🌸
   - [ ] 637
   - [ ] 429
   - [ ] 515
   - [ ] 116
   - [ ] 117
-  - [ ] 104
+  - [ ] 104 🔥
   - [ ] 111
-  - [ ] 226
-  - [ ] 101
+  - [ ] 226 🔥
+  - [ ] 101 🔥
   - [ ] 222
   - [ ] 110
   - [ ] 257
@@ -127,10 +127,10 @@
   - [ ] 654
   - [ ] 617
   - [ ] 700
-  - [ ] 98
+  - [ ] 98 🔥
   - [ ] 530
   - [ ] 501
-  - [ ] 236
+  - [ ] 236 🔥
   - [ ] 235
   - [ ] 701
   - [ ] 450
@@ -233,7 +233,7 @@
   - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 
 - [x] [二分搜索](/algorithms-summary/binary%20search.md) 9/9
-  
+
   - [x] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   - [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
   - [x] [34. Find First and Last Position of Element in So](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
@@ -243,7 +243,7 @@
   - [x] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
   - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
   - [x] [704. Binary Search](https://leetcode.com/problems/binary-search)
-  
+
 - [x] 滑动窗口 3/3
   - [x] [3. Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
   - [x] [438. Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
@@ -297,6 +297,7 @@
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
 | [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) |  | |
+| [199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Binary Tree Right Side View | [Rust](/leetcode/src/rust/199.binary-tree-right-side-view.rs) | | |
 | [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs) | | |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs) | | |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) |  | |
