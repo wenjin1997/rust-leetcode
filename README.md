@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 66/173 剩余 107
+- [ ] 总进度条 67/180 剩余 113
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅✅⬜️⬜️⬜️⬜️
+  ✅✅✅✅✅✅✅⬜️⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -35,7 +35,7 @@
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-  ⬜️⬜️⬜️
+  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 - [x] 数组 5/5
 
@@ -44,7 +44,6 @@
   - [x] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) 🌟
   - [x] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) 🌟
   - [x] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  🌟
-
 - [ ] 链表 7/8
 
   - [x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 🌟
@@ -55,7 +54,6 @@
   - [ ] [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
   - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) 🌟
   - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  🌸
-
 - [ ] 哈希表 5/8
 
   - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) ✨
@@ -66,7 +64,6 @@
   - [ ] [383. Ransom Note](https://leetcode.com/problems/ransom-note)
   - [x] [15. 3Sum](https://leetcode.com/problems/3sum)🌟
   - [ ] [18. 4Sum](https://leetcode.com/problems/4sum)
-
 - [ ] 字符串 1/7
 
   - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string) 🌸
@@ -76,7 +73,6 @@
   - [ ] [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
   - [ ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)
   - [ ] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)
-
 - [ ] 双指针法 1/10
 
   - [ ] [27. Remove Element](https://leetcode.com/problems/remove-element)
@@ -89,7 +85,6 @@
   - [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
   - [ ] [15. 3Sum](https://leetcode.com/problems/3sum)
   - [ ] [18. 4Sum](https://leetcode.com/problems/4sum)
-
 - [ ] 栈与队列 3/7🌟
 
   - [ ] [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
@@ -99,14 +94,12 @@
   - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
-
-- [ ] [二叉树](/algorithms-summary/binary_tree.md) 5/35
-
+- [ ] [二叉树](/algorithms-summary/binary_tree.md) 6/42
   - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟
   - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🔥🌟
   - [x] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) 🌟
   - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) 🔥🌟
-  - [ ] 107
+  - [x] [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) 🌸
   - [x] [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) 🔥🌸
   - [ ] 637
   - [ ] 429
@@ -137,7 +130,13 @@
   - [ ] 669
   - [ ] 108
   - [ ] 538
-
+  - [ ] 543 🔥
+  - [ ] 96 🔥
+  - [ ] 105 🔥
+  - [ ] 114 🔥
+  - [ ] 230 🔥
+  - [ ] 437 🔥
+  - [ ] 124 🔥
 - [ ] 回溯算法 1/16
 
   - [ ] [77. Combinations](https://leetcode.com/problems/combinations)
@@ -156,7 +155,6 @@
   - [ ] [51. N-Queens](https://leetcode.com/problems/n-queens)
   - [ ] [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
   - [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
-
 - [ ] 贪心算法 2/18
 
   - [ ] [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)
@@ -177,7 +175,6 @@
   - [ ] [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)
   - [ ] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
   - [ ] [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)
-
 - [ ] 动态规划 17/41
 
   - [ ] [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
@@ -223,7 +220,6 @@
   - [x] [120. Triangle](https://leetcode.com/problems/triangle/description/)
   - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) 🌸
   - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
-
 - [ ] 单调栈 0/5
 
   - [ ] [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
@@ -231,7 +227,6 @@
   - [ ] [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)
   - [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
   - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
-
 - [x] [二分搜索](/algorithms-summary/binary%20search.md) 9/9
 
   - [x] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
@@ -243,19 +238,21 @@
   - [x] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
   - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
   - [x] [704. Binary Search](https://leetcode.com/problems/binary-search)
-
 - [x] 滑动窗口 3/3
   - [x] [3. Longest Substring Without Repeating Characters](/leetcode/notes/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
   - [x] [438. Find All Anagrams in a String](/leetcode/notes/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-
 - [x] 图 1/1
   - [x] 环检测算法 1/1
     - [x] [287. Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md)
-
 - [x] Negative marking 1/1
   - [x] [287. Find the Duplicate Number](/leetcode/notes/287.%20Find%20the%20Duplicate%20Number.md)
 
+符号说明：
+
+* 🔥 [Top 100 Liked Questions](https://leetcode.com/problem-list/top-100-liked-questions/?sorting=W3t9XQ%3D%3D)
+* 🌟 还需掌握
+* 🌸 已独立写出
 
 ## LeetCode
 
@@ -285,6 +282,7 @@
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/0001~0099/0074.%20Search%20a%202D%20Matrix.md) |  |  |  |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal | [Rust](/leetcode/src/rust/94.binary-tree-inorder-traversal.rs) | | |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Binary Tree Level Order Traversal | [Rust](/leetcode/src/rust/102.binary-tree-level-order-traversal.rs) | | |
+| [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Binary Tree Level Order Traversal II | [Rust](/leetcode/src/rust/107.binary-tree-level-order-traversal-ii.rs) | | |
 | [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) |  | |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/0100~0199/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |  |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
