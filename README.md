@@ -1,5 +1,5 @@
 # Rust算法
-- [ ] 总进度条 67/180 剩余 113
+- [ ] 总进度条 68/180 剩余 112
 
   ✅✅✅✅✅✅✅✅✅✅
 
@@ -13,7 +13,7 @@
 
   ✅✅✅✅✅✅✅✅✅✅
 
-  ✅✅✅✅✅✅✅⬜️⬜️⬜️
+  ✅✅✅✅✅✅✅✅⬜️⬜️
 
   ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
@@ -94,14 +94,15 @@
   - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
-- [ ] [二叉树](/algorithms-summary/binary_tree.md) 6/42
-  - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟
+- [ ] [二叉树](/algorithms-summary/binary_tree.md) 7/42
+  
+  - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟🌟
   - [x] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 🔥🌟
   - [x] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) 🌟
   - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) 🔥🌟
   - [x] [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) 🌸
   - [x] [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) 🔥🌸
-  - [ ] 637
+  - [x] [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) 🌸
   - [ ] 429
   - [ ] 515
   - [ ] 116
@@ -256,63 +257,64 @@
 
 ## LeetCode
 
-| 🔗                                           | 📒           | Rust   | Python3 | Java |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/0001~0099/0001.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs) | [Python3](/leetcode/src/python3/1.two-sum.py) | [Java](/leetcode/src/java/1.two-sum.java) |
-| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/0001~0099/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |  |  |  |
-| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/0001~0099/0004.%20Median%20of%20Two%20Sorted%20Arrays.md) |  |  |  |
-| [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs) |  | |
-| [15](https://leetcode.com/problems/3sum) | [3Sum](/leetcode/notes/0001~0099/0015.%203Sum.md) | [Rust](/leetcode/src/rust/15.3-sum.rs) | | |
-| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List | [Rust](/leetcode/src/rust/19.remove-nth-node-from-end-of-list.rs) | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
-| [20](https://leetcode.com/problems/valid-parentheses/description/) | [Valid Parentheses](/leetcode/notes/0001~0099/0020.%20Valid%20Parentheses.md) | [Rust](/leetcode/src/rust/20.valid-parentheses.rs) |  | |
-| [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]() |  | |
-| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs) | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
-| [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs) |  |  |
-| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/0001~0099/0033.%20Search%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
-| [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/0001~0099/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |  |  |  |
-| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/0001~0099/0035.%20Search%20Insert%20Position.md) | [Rust](/leetcode/src/rust/35.search-insert-position.rs) |  |  |
-| [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs) |  | |
-| [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs) |  | |
-| [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs) |  | |
-| [59](https://leetcode.com/problems/spiral-matrix-ii) | Spiral Matrix II | [Rust](/leetcode/src/rust/59.spiral-matrix-ii.rs) |  | |
-| [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs) |  | |
-| [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs) |  | |
-| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs) |  | |
-| [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs) |  | |
-| [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/0001~0099/0074.%20Search%20a%202D%20Matrix.md) |  |  |  |
-| [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal | [Rust](/leetcode/src/rust/94.binary-tree-inorder-traversal.rs) | | |
-| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Binary Tree Level Order Traversal | [Rust](/leetcode/src/rust/102.binary-tree-level-order-traversal.rs) | | |
-| [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Binary Tree Level Order Traversal II | [Rust](/leetcode/src/rust/107.binary-tree-level-order-traversal-ii.rs) | | |
-| [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs) |  | |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/0100~0199/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs) |  |  |
-| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs) |  | |
-| [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs) |  | |
-| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |  | [Python3](/leetcode/src/python3/141.linked-list-cycle.py) | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
-| [142](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List Cycle II | | [Python3](/leetcode/src/python3/142.linked-list-cycle-ii.py) |  |
-| [144](https://leetcode.com/problems/binary-tree-preorder-traversal) | Binary Tree Preorder Traversal | [Rust](/leetcode/src/rust/144.binary-tree-preorder-traversal.rs) |  | |
-| [145](https://leetcode.com/problems/binary-tree-postorder-traversal) | Binary Tree Postorder Traversal | [Rust](/leetcode/src/rust/145.binary-tree-postorder-traversal.rs) | | |
-| [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs) |  | |
-| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |  |  |  |
-| [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]() |  | |
-| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs) |  | |
-| [199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Binary Tree Right Side View | [Rust](/leetcode/src/rust/199.binary-tree-right-side-view.rs) | | |
-| [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs) | | |
-| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs) | | |
-| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs) |  | |
-| [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs) |  | |
-| [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs) |  |  |
-| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/0200~0299/0240.%20Search%20a%202D%20Matrix%20II.md) |  |  |  |
-| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Rust](/leetcode/src/rust/242.valid-anagram.rs) | | |
-| [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/0200~0299/0287.%20Find%20the%20Duplicate%20Number.md) |  |  |  |
-| [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs) |  | |
-| [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs) |  | |
-| [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs) |  | |
-| [344](https://leetcode.com/problems/reverse-string/description/) | Reverse String | [Rust](/leetcode/src/rust/344.reverse-string.rs) | | |
-| [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs) | | |
-| [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs) | | |
-| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |  |  |  |
-| [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs) |  | |
-| [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs) | | |
+| 🔗                                           | 📒           | Rust                                                                                   | Python3 | Java |
+| ----------- | ----------- |----------------------------------------------------------------------------------------| ----------- | ----------- |
+| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/0001~0099/0001.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs)                                                | [Python3](/leetcode/src/python3/1.two-sum.py) | [Java](/leetcode/src/java/1.two-sum.java) |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/0001~0099/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |                                                                                        |  |  |
+| [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/0001~0099/0004.%20Median%20of%20Two%20Sorted%20Arrays.md) |                                                                                        |  |  |
+| [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs)                          |  | |
+| [15](https://leetcode.com/problems/3sum) | [3Sum](/leetcode/notes/0001~0099/0015.%203Sum.md) | [Rust](/leetcode/src/rust/15.3-sum.rs)                                                 | | |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Remove Nth Node From End of List | [Rust](/leetcode/src/rust/19.remove-nth-node-from-end-of-list.rs)                      | [Python3](/leetcode/src/python3/19.remove-nth-node-from-end-of-list.py) | |
+| [20](https://leetcode.com/problems/valid-parentheses/description/) | [Valid Parentheses](/leetcode/notes/0001~0099/0020.%20Valid%20Parentheses.md) | [Rust](/leetcode/src/rust/20.valid-parentheses.rs)                                     |  | |
+| [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Rust]()                                                                               |  | |
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs) | Swap Nodes in Pairs | [Rust](/leetcode/src/rust/24.swap-nodes-in-pairs.rs)                                   | [Python3](/leetcode/src/python3/24.swap-nodes-in-pairs.py) | [Java](/leetcode/src/java/24.swap-nodes-in-pairs.java) |
+| [27](https://leetcode.com/problems/remove-element) | Remove Element | [Rust](/leetcode/src/rust/27.remove-element.rs)                                        |  |  |
+| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](/leetcode/notes/0001~0099/0033.%20Search%20in%20Rotated%20Sorted%20Array.md) |                                                                                        |  |  |
+| [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/leetcode/notes/0001~0099/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |                                                                                        |  |  |
+| [35](https://leetcode.com/problems/search-insert-position/) | [ Search Insert Position](/leetcode/notes/0001~0099/0035.%20Search%20Insert%20Position.md) | [Rust](/leetcode/src/rust/35.search-insert-position.rs)                                |  |  |
+| [45]() | Jump Game II | [Rust](/leetcode/src/rust/45.jump-game-ii.rs)                                          |  | |
+| [53](https://leetcode.com/problems/maximum-subarray/description/) | Maximum Subarray | [Rust](/leetcode/src/rust/53.maximum-subarray.rs)                                      |  | |
+| [55](https://leetcode.com/problems/jump-game/description/) | Jump Game | [Rust](/leetcode/src/rust/55.jump-game.rs)                                             |  | |
+| [59](https://leetcode.com/problems/spiral-matrix-ii) | Spiral Matrix II | [Rust](/leetcode/src/rust/59.spiral-matrix-ii.rs)                                      |  | |
+| [62](https://leetcode.com/problems/unique-paths/description/) | Unique Paths | [Rust](/leetcode/src/rust/62.unique-paths.rs)                                          |  | |
+| [64](https://leetcode.com/problems/minimum-path-sum/description/) | Minimum Path Sum | [Rust](/leetcode/src/rust/64.minimum-path-sum.rs)                                      |  | |
+| [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs)                                       |  | |
+| [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs)                                         |  | |
+| [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/0001~0099/0074.%20Search%20a%202D%20Matrix.md) |                                                                                        |  |  |
+| [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal | [Rust](/leetcode/src/rust/94.binary-tree-inorder-traversal.rs)                         | | |
+| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Binary Tree Level Order Traversal | [Rust](/leetcode/src/rust/102.binary-tree-level-order-traversal.rs)                    | | |
+| [107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Binary Tree Level Order Traversal II | [Rust](/leetcode/src/rust/107.binary-tree-level-order-traversal-ii.rs)                 | | |
+| [120](https://leetcode.com/problems/triangle/description/) | Triangle | [Rust](/leetcode/src/rust/120.triangle.rs)                                             |  | |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/leetcode/notes/0100~0199/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | [Rust](/leetcode/src/rust/121.best-time-to-buy-and-sell-stock.rs)                      |  |  |
+| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Best Time to Buy and Sell Stock II | [Rust](/leetcode/src/rust/122.best-time-to-buy-and-sell-stock-ii.rs)                   |  | |
+| [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Best Time to Buy and Sell Stock III | [Rust](/leetcode/src/rust/123.best-time-to-buy-and-sell-stock-iii.rs)                  |  | |
+| [141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle |                                                                                        | [Python3](/leetcode/src/python3/141.linked-list-cycle.py) | [Java](/leetcode/src/java/141.linked-list-cycle.java) |
+| [142](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List Cycle II |                                                                                        | [Python3](/leetcode/src/python3/142.linked-list-cycle-ii.py) |  |
+| [144](https://leetcode.com/problems/binary-tree-preorder-traversal) | Binary Tree Preorder Traversal | [Rust](/leetcode/src/rust/144.binary-tree-preorder-traversal.rs)                       |  | |
+| [145](https://leetcode.com/problems/binary-tree-postorder-traversal) | Binary Tree Postorder Traversal | [Rust](/leetcode/src/rust/145.binary-tree-postorder-traversal.rs)                      | | |
+| [152](https://leetcode.com/problems/maximum-product-subarray/description/) | Maximum Product Subarray | [Rust](/leetcode/src/rust/152.maximum-product-subarray.rs)                             |  | |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](/leetcode/notes/0100~0199/0153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |                                                                                        |  |  |
+| [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Best Time to Buy and Sell Stock IV | [Rust]()                                                                               |  | |
+| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs)                                         |  | |
+| [199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Binary Tree Right Side View | [Rust](/leetcode/src/rust/199.binary-tree-right-side-view.rs)                          | | |
+| [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs)                                         | | |
+| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs)                          | | |
+| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs)                                  |  | |
+| [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs)                            |  | |
+| [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs)                               |  |  |
+| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/0200~0299/0240.%20Search%20a%202D%20Matrix%20II.md) |                                                                                        |  |  |
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Rust](/leetcode/src/rust/242.valid-anagram.rs)                                        | | |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/0200~0299/0287.%20Find%20the%20Duplicate%20Number.md) |                                                                                        |  |  |
+| [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs)                       |  | |
+| [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs)        |  | |
+| [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs)                                          |  | |
+| [344](https://leetcode.com/problems/reverse-string/description/) | Reverse String | [Rust](/leetcode/src/rust/344.reverse-string.rs)                                       | | |
+| [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs)                              | | |
+| [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs)                           | | |
+| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |                                                                                        |  |  |
+| [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[637]Average of Levels in Binary Tree.rs)                                                                              | | |
+| [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs)                                        |  | |
+| [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs)                                   | | |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) |  | |
-| [977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | [Rust](/leetcode/src/rust/977.squares-of-a-sorted-array.rs) |  | |
+| [977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | [Rust](/leetcode/src/rust/977.squares-of-a-sorted-array.rs)                            |  | |
 
