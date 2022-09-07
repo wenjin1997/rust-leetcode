@@ -46,7 +46,7 @@
   - [x] [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  🌟
 - [ ] 链表 7/8
 
-  - [x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 🌟
+  - [x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 🌟🌟
   - [x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list) 🌟
   - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️
   - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️
@@ -198,13 +198,13 @@
   - [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii)
   - [ ] [337. House Robber III](https://leetcode.com/problems/house-robber-iii)
   - [x] 股票买卖问题 6/6
+  
     - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
     - [x] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
     - [x] [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
     - [x] [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
     - [x] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
     - [x] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
-
   - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
   - [ ] [674. Longest Continuous Increasing Sub](https://leetcode.com/problems/longest-continuous-increasing-subsequence)
   - [ ] [718. Maximum Length of Repeated Sub](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
@@ -298,7 +298,7 @@
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | [Rust](/leetcode/src/rust/198.house-robber.rs)                                         |  | |
 | [199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Binary Tree Right Side View | [Rust](/leetcode/src/rust/199.binary-tree-right-side-view.rs)                          | | |
 | [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs)                                         | | |
-| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs)                          | | |
+| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs)                          | |[Java](leetcode/src/java/203.remove-linked-list-elements.java) |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs)                                  |  | |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs)                            |  | |
 | [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[226]Invert%20Binary%20Tree.rs)                                                                              | | |
