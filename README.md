@@ -301,7 +301,7 @@
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs)                          | | |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs)                                  |  | |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs)                            |  | |
-| [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[226]Invert Binary Tree.rs)                                                                              | | |
+| [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[226]Invert%20Binary%20Tree.rs)                                                                              | | |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs)                               |  |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/0200~0299/0240.%20Search%20a%202D%20Matrix%20II.md) |                                                                                        |  |  |
 | [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Rust](/leetcode/src/rust/242.valid-anagram.rs)                                        | | |
@@ -313,7 +313,7 @@
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs)                              | | |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs)                           | | |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |                                                                                        |  |  |
-| [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[637]Average of Levels in Binary Tree.rs) | | |
+| [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[637]Average%20of%20Levels%20in%20Binary%20Tree.rs) | | |
 | [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs)                                        |  | |
 | [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs)                                   | | |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) |  | |
