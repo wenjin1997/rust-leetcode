@@ -48,7 +48,7 @@
 
   - [x] [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) 🌟🌟
   - [x] [707. Design Linked List](https://leetcode.com/problems/design-linked-list) 🌟
-  - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️
+  - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️🌟
   - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  ⭐️
   - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) 🌟
   - [ ] [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
@@ -94,7 +94,7 @@
   - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
   - [x] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  ✨
-  - [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) 🌟
 - [ ] [二叉树](/algorithms-summary/binary_tree.md) 8/42
   
   - [x] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) 🌟🌟
@@ -300,7 +300,7 @@
 | [199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Binary Tree Right Side View | [Rust](/leetcode/src/rust/199.binary-tree-right-side-view.rs)                          | | |
 | [202](https://leetcode.com/problems/happy-number/) | Happy Number | [Rust](/leetcode/src/rust/202.happy-number.rs)                                         | | |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [Rust](/leetcode/src/rust/203.remove-linked-list-elements.rs)                          | |[Java](leetcode/src/java/203.remove-linked-list-elements.java) |
-| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs)                                  |  | |
+| [206](https://leetcode.com/problems/reverse-linked-list/description/) | Reverse Linked List | [Rust](/leetcode/src/rust/206.reverse-linked-list.rs)                                  |  |[Java](leetcode/src/java/206.reverse-linked-list.java) |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum) | Minimum Size Subarray Sum | [Rust](/leetcode/src/rust/209.minimum-size-subarray-sum.rs)                            |  | |
 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array |  | | [Java](/leetcode/src/java/215.kth-largest-element-in-an-array.java) |
 | [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | [Rust](/leetcode/src/rust/leetcode/editor/en/[226]Invert%20Binary%20Tree.rs)                                                                              | | |
