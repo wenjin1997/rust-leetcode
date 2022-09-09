@@ -35,7 +35,6 @@ impl MyLinkedList {
             None => { return -1; },
         };
         let mut idx_cur = 0;
-        println!("idx_cur: {}", idx_cur);
         while idx_cur < index {
             if let Some(ref next) = cur.next {
                 cur = next;
