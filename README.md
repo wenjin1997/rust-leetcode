@@ -49,7 +49,7 @@
 - [ ] 字符串 1/7
 
   - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string) 🌸
-  - [ ] [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii)
+  - [x] [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii)
   - [ ] [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
   - [ ] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
   - [ ] [剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
@@ -260,7 +260,7 @@
 | 🔗                                           | 📒           | Rust                                                                                   | Python3 | Java |
 | ----------- | ----------- |----------------------------------------------------------------------------------------| ----------- | ----------- |
 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/0001~0099/0001.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs)                                                | [Python3](/leetcode/src/python3/1.two-sum.py) | [Java](/leetcode/src/java/1.two-sum.java) |
-| [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers |  |  | [Java](/leetcode/src/java/2.add-two-numbers.java) |
+| [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers |  |  | [Java]() |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/0001~0099/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |                                                                                        |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/0001~0099/0004.%20Median%20of%20Two%20Sorted%20Arrays.md) |                                                                                        |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs)                          |  | |
@@ -318,6 +318,7 @@
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs)                           | | |
 | [397](https://leetcode.com/problems/integer-replacement/) | Integer Replacement |  | | [Java](/leetcode/src/java/397.integer-replacement.java) |
 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](/leetcode/notes/0400~0499/0438.%20Find%20All%20Anagrams%20in%20a%20String.md) |                                                                                        |  |  |
+| [541](https://leetcode.com/problems/reverse-string-ii) | Reverse String II | | | [Java](/leetcode/src/java/541.reverse-string-ii.java) |
 | [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Rust](/leetcode/src/rust/637.%20Average%20of%20Levels%20in%20Binary%20Tree.rs) | | |
 | [704](https://leetcode.com/problems/binary-search) | Binary Search | [Rust](/leetcode/src/rust/704.binary-search.rs)                                        |  | |
 | [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs)                                   | | |
