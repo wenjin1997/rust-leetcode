@@ -260,6 +260,7 @@
 | 🔗                                           | 📒           | Rust                                                                                   | Python3 | Java |
 | ----------- | ----------- |----------------------------------------------------------------------------------------| ----------- | ----------- |
 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](/leetcode/notes/0001~0099/0001.%20Two%20Sum.md) | [Rust](/leetcode/src/rust/1.two-sum.rs)                                                | [Python3](/leetcode/src/python3/1.two-sum.py) | [Java](/leetcode/src/java/1.two-sum.java) |
+| [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers |  |  | [Java](/leetcode/src/java/2.add-two-numbers.java) |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/leetcode/notes/0001~0099/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |                                                                                        |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/leetcode/notes/0001~0099/0004.%20Median%20of%20Two%20Sorted%20Arrays.md) |                                                                                        |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring) | Longest Palindromic Substring | [Rust](/leetcode/src/rust/5.longest-palindromic-substring.rs)                          |  | |
