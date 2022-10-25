@@ -59,7 +59,7 @@
 - [ ] 双指针法 1/10
 
   - [ ] [27. Remove Element](https://leetcode.com/problems/remove-element)
-  - [ ] [344. Reverse String](https://leetcode.com/problems/reverse-string)
+  - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string)
   - [ ] [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
   - [ ] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
   - [x] [206. Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list) ⭐️
@@ -315,7 +315,7 @@
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs)                       |  | |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs)        |  | |
 | [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs)                                          |  | |
-| [344](https://leetcode.com/problems/reverse-string/description/) | Reverse String | [Rust](/leetcode/src/rust/344.reverse-string.rs)                                       | | |
+| [344](https://leetcode.com/problems/reverse-string/description/) | Reverse String | [Rust](/leetcode/src/rust/344.reverse-string.rs)                                       | | [Java](/leetcode/src/java/344.reverse-string.java) |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/leetcode/notes/0300~0399/0347.%20Top%20K%20Frequent%20Elements.md) | [Rust](/leetcode/src/rust/347.top-k-frequent-elements.rs)                              | | |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Rust](/leetcode/src/rust/349.intersection-of-two-arrays.rs)                           | | |
 | [397](https://leetcode.com/problems/integer-replacement/) | Integer Replacement |  | | [Java](/leetcode/src/java/397.integer-replacement.java) |
