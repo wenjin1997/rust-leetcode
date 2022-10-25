@@ -310,6 +310,7 @@
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | [Rust](/leetcode/src/rust/239.sliding-window-maximum.rs)                               |  |  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](/leetcode/notes/0200~0299/0240.%20Search%20a%202D%20Matrix%20II.md) |                                                                                        |  |  |
 | [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Rust](/leetcode/src/rust/242.valid-anagram.rs)                                        | | |
+| [283](https://leetcode.com/problems/move-zeroes/) | Move Zeroes |  | | [Java](/leetcode/src/java/283.move-zeroes.java) |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/0200~0299/0287.%20Find%20the%20Duplicate%20Number.md) |                                                                                        |  |  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs)                       |  | |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs)        |  | |
