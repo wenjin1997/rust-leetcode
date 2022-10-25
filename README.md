@@ -283,6 +283,7 @@
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Rust](/leetcode/src/rust/70.climbing-stairs.rs)                                       |  | |
 | [72](https://leetcode.com/problems/edit-distance) | Edit Distance | [Rust](/leetcode/src/rust/72.edit-distance.rs)                                         |  | |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](/leetcode/notes/0001~0099/0074.%20Search%20a%202D%20Matrix.md) |                                                                                        |  |  |
+| [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Remove Duplicates from Sorted List | | | [Java](/leetcode/src/java/83.remove-duplicates-from-sorted-list.java) |
 | [91](https://leetcode.com/problems/decode-ways/) | Decode Ways | | | [Java](/leetcode/src/java/91.decode-ways.java) |
 | [92](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Reverse Linked List II | | | [Java](/leetcode/src/java/92.reverse-linked-list-ii.java) |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal) | Binary Tree Inorder Traversal | [Rust](/leetcode/src/rust/94.binary-tree-inorder-traversal.rs)                         | | |
