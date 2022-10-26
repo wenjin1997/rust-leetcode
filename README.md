@@ -330,4 +330,5 @@
 | [707](https://leetcode.com/problems/design-linked-list/) | Design Linked List | [Rust](/leetcode/src/rust/707.design-linked-list.rs)                                   | | |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | Best Time to Buy and Sell Stock with Transaction Fee | [Rust](/leetcode/src/rust/714.best-time-to-buy-and-sell-stock-with-transaction-fee.rs) |  | |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | [Rust](/leetcode/src/rust/977.squares-of-a-sorted-array.rs)                            |  | |
+| [1094](https://leetcode.com/problems/car-pooling/description/) | Car Pooling |  | | [Java](/leetcode/src/java/1094.car-pooling.java) |
 
