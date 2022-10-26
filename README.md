@@ -315,6 +315,7 @@
 | [283](https://leetcode.com/problems/move-zeroes/) | Move Zeroes |  | | [Java](/leetcode/src/java/283.move-zeroes.java) |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](/leetcode/notes/0200~0299/0287.%20Find%20the%20Duplicate%20Number.md) |                                                                                        |  |  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Longest Increasing Subsequence | [Rust](/leetcode/src/rust/300.longest-increasing-subsequence.rs)                       |  | |
+| [303](https://leetcode.com/problems/range-sum-query-immutable/description/) | Range Sum Query - Immutable |  | | [Java](/leetcode/src/java/303.range-sum-query-immutable.java) |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Best Time to Buy and Sell Stock with Cooldown | [Rust](/leetcode/src/rust/309.best-time-to-buy-and-sell-stock-with-cooldown.rs)        |  | |
 | [322](https://leetcode.com/problems/coin-change/description/) | Coin Change | [Rust](/leetcode/src/rust/322.coin-change.rs)                                          |  | |
 | [344](https://leetcode.com/problems/reverse-string/description/) | Reverse String | [Rust](/leetcode/src/rust/344.reverse-string.rs)                                       | | [Java](/leetcode/src/java/344.reverse-string.java) |
